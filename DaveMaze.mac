@@ -1,0 +1,27 @@
+" Now just uses four states! Original uses sixteen.
+" Rewritten by Dave Cohen - d.cohen@rhul.ac.uk
+set remap
+set wrapmargin=0
+map g IL
+map I G$?.^2GQlmaGYJEJKS`a
+map L QAmaGNBWwX`a@mGTBRWfZbSbXGVJ0H`a@r@mU
+map U L
+map J "cp
+map Q "cyl
+map B "sp
+map S "syl
+map R "np
+map F "nyl
+map M "my$
+map X "myt 
+map H "ry$
+map ^ rX
+map A rO
+map V ar
+map N C/n
+map T C/s
+map D d$
+map W 0MD@m
+map Y osA k EZ sA_ mm GZ sC j GZ sC_ mm EZ sE. hh CZ sE
+map E $a mm AZ sG. ll AZ sG
+map K $a mm CZnA kF nC G$JF nE hF nG lF A

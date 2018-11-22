@@ -1,9 +1,13 @@
+Modified by CyclingProfessor: d.cohen@rhul.ac.uk fro Greg's original macros
+See the original maze_mac macros for an explanation.  New macros have no comments.
+New macros use four states instead of the original sixteen.
+===================================================================================
 To run the maze macros with Vim:
 
-	vim -u maze_mac maze_5.78
+	vim -u DaveMaze.mac maze_5.78
 	press "g"
 
-The "-u maze.mac" loads the maze macros and skips loading your .vimrc, which
+The "-u DaveMaze.mac" loads the maze macros and skips loading your .vimrc, which
 may contain settings and mappings that get in the way.
 
 
